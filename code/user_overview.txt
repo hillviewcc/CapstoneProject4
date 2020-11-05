@@ -1,0 +1,50 @@
+Total number of task is : 5
+The total number of users registered is :8
+Tasks for user: admin
+The total number of task for user is 2
+The total percentage of task assigned 40.0%
+The total percentage of assigned task completed 100.0%
+The total percentage of assigned task uncompleted 0.0%
+The total percentage of task uncompleted and overdue0.0%
+Tasks for user: dodo
+The total number of task for user is 0
+The total percentage of task assigned 0.0%
+The total percentage of assigned task completed 0%
+The total percentage of assigned task uncompleted 0%
+The total percentage of task uncompleted and overdue0%
+Tasks for user: look
+The total number of task for user is 1
+The total percentage of task assigned 20.0%
+The total percentage of assigned task completed 100.0%
+The total percentage of assigned task uncompleted 0.0%
+The total percentage of task uncompleted and overdue0.0%
+Tasks for user: tooley
+The total number of task for user is 0
+The total percentage of task assigned 0.0%
+The total percentage of assigned task completed 0%
+The total percentage of assigned task uncompleted 0%
+The total percentage of task uncompleted and overdue0%
+Tasks for user: adey
+The total number of task for user is 2
+The total percentage of task assigned 40.0%
+The total percentage of assigned task completed 0.0%
+The total percentage of assigned task uncompleted 100.0%
+The total percentage of task uncompleted and overdue100.0%
+Tasks for user: adeola
+The total number of task for user is 0
+The total percentage of task assigned 0.0%
+The total percentage of assigned task completed 0%
+The total percentage of assigned task uncompleted 0%
+The total percentage of task uncompleted and overdue0%
+Tasks for user: abim
+The total number of task for user is 0
+The total percentage of task assigned 0.0%
+The total percentage of assigned task completed 0%
+The total percentage of assigned task uncompleted 0%
+The total percentage of task uncompleted and overdue0%
+Tasks for user: bimbo
+The total number of task for user is 0
+The total percentage of task assigned 0.0%
+The total percentage of assigned task completed 0%
+The total percentage of assigned task uncompleted 0%
+The total percentage of task uncompleted and overdue0%
